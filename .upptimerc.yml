@@ -32,3 +32,54 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Актуальные инциденты
+  allSystemsOperational: Все системы в рабочем состоянии
+  incidentReport: "Отчёт об инциденте №$NUMBER →"
+  activeIncidentSummary: Открыт $DATE с $POSTS сообщениями
+  incidentTitle: Информация об инциденте $NUMBER
+  incidentDetails: Информация об инциденте
+  incidentFixed: Исправлено
+  incidentOngoing: В процессе
+  incidentOpenedAt: Заведён
+  incidentClosedAt: Закрыт
+  incidentViewOnGitHub: Посмотреть в GitHub
+  incidentCommentSummary: Отправлено $DATE от $AUTHOR
+  incidentBack: ← Назад к списку инцидентов
+  pastIncidents: Прошлые инциденты
+  pastIncidentsResolved: Решён за $MINUTES минут с $POSTS сообщениями
+  liveStatus: Текущий статус
+  overallUptime: "Общее время безотказной работы: $UPTIME"
+  overallUptimeTitle: Общее время безотказной работы
+  averageResponseTime: "Среднее время отклика: $TIMEмс"
+  averageResponseTimeTitle: Среднее время отклика
+  sevelDayResponseTime: Время отклика за 7 дней
+  responseTimeMs: Время отклика (мс)
+  up: Онлайн
+  down: Оффлайн
+  degraded: Заторможен
+  ms: мс
+  loading: Загрузка
+  navGitHub: GitHub
+  footer: У этой страницы [открытый исходный код]($REPO) на основе [Upptime](https://upptime.js.org)
+  errorTitle: Произошла ошибка
+  errorIntro: Произошла ошибка при попытке получить последние данные о статусе.
+  errorText: Вы можете попробовать снова через несколько минут.
+  errorHome: Перейти на главную страницу
+  pastScheduledMaintenance: Прошлое запланированное обслуживание
+  scheduledMaintenance: Запланированное обслуживание
+  scheduledMaintenanceSummaryStarted: Начато $DATE на $DURATION минут
+  scheduledMaintenanceSummaryStarts: Начнется $DATE на $DURATION минут
+  startedAt: Начато
+  startsAt: Начнётся
+  duration: Продолжительность
+  durationMin: $DURATION минут
+  incidentCompleted: Завершено
+  incidentScheduled: Запланировано
+  duration24H: 24ч
+  duration7D: 7д
+  duration30D: 30д
+  duration1Y: 1г
+  durationAll: все
+  locale: ru-RU
