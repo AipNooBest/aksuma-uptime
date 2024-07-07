@@ -1,17 +1,17 @@
 ---
 name: Maintenance Event
 about: Schedule a work window
-title: "[Scheduled Maintenance] Site down for Maintenance"
+title: "[Запланированные работы] Основные сервисы будут недоступны"
 labels: maintenance
 assignees: ''
 
 ---
 
 <!--
-start: 2021-08-24T13:00:00.220Z
-end: 2021-08-24T14:00:00.220Z
-expectedDown: google, hacker-news
+start: 2024-06-29T19:25:00+03:00
+end: 2024-06-29T19:35:00+03:00
+expectedDown: Main Site, Osu Server (Frontend), Osu Server (Backend), Wiki, File Storage, Gitea
 -->
 
 **Additional context**
-Who/what/when/where/why is this maintenance happening
+
