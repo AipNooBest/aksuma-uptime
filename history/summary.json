@@ -78,19 +78,19 @@
     "url": "https://fs.aksuma.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/fs.aksuma.ru.ico",
     "slug": "file-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 2093,
-    "timeWeek": 971,
-    "timeMonth": 800,
-    "timeYear": 800,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 778,
+    "timeDay": 1554,
+    "timeWeek": 922,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-07-07": 0
+      "2024-07-07": 8
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://git.aksuma.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/git.aksuma.ru.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 776,
-    "timeWeek": 781,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 744,
+    "timeDay": 799,
+    "timeWeek": 788,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-07-07": 0
+      "2024-07-07": 8
     }
   }
 ]
