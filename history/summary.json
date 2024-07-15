@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fs.aksuma.ru.ico",
     "slug": "file-storage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.76%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 873,
     "timeDay": 2157,
     "timeWeek": 1064,
     "timeMonth": 873,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2024-07-15": 0
+      "2024-07-15": 60
     }
   },
   {
@@ -98,9 +98,9 @@
     "url": "https://git.aksuma.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/git.aksuma.ru.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,8 @@
     "timeWeek": 781,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   }
 ]
