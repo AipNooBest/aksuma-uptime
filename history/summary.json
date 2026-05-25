@@ -5,24 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/aksuma.ru.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "91.04%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 695,
-    "timeDay": 587,
-    "timeWeek": 617,
-    "timeMonth": 648,
+    "timeDay": 404,
+    "timeWeek": 595,
+    "timeMonth": 633,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2026-04-06": 89,
-      "2026-03-23": 55,
-      "2025-12-25": 167,
-      "2025-12-17": 66,
+      "2025-08-16": 34,
       "2025-10-07": 57,
       "2025-10-06": 3,
-      "2025-08-16": 34
+      "2025-12-17": 66,
+      "2025-12-25": 167,
+      "2026-03-23": 55,
+      "2026-04-06": 89
     }
   },
   {
@@ -37,16 +37,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 747,
-    "timeDay": 736,
-    "timeWeek": 757,
-    "timeMonth": 733,
-    "timeYear": 726,
+    "timeDay": 535,
+    "timeWeek": 740,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2026-04-06": 89,
-      "2026-03-23": 55,
-      "2025-12-25": 222,
+      "2025-08-16": 34,
       "2025-12-17": 18,
-      "2025-08-16": 34
+      "2025-12-25": 222,
+      "2026-03-23": 55,
+      "2026-04-06": 89
     }
   },
   {
@@ -55,21 +55,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/c.aksuma.ru.ico",
     "slug": "osu-server-backend",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 733,
-    "timeDay": 486,
-    "timeWeek": 546,
-    "timeMonth": 608,
-    "timeYear": 701,
+    "time": 732,
+    "timeDay": 410,
+    "timeWeek": 520,
+    "timeMonth": 597,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2026-04-06": 88,
-      "2026-03-23": 54,
+      "2025-08-16": 34,
       "2025-12-25": 45,
-      "2025-08-16": 34
+      "2026-03-23": 54,
+      "2026-04-06": 88
     }
   },
   {
@@ -83,17 +83,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 661,
-    "timeDay": 674,
-    "timeWeek": 680,
-    "timeMonth": 648,
+    "time": 660,
+    "timeDay": 423,
+    "timeWeek": 660,
+    "timeMonth": 641,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2026-04-06": 88,
-      "2026-03-23": 54,
-      "2025-12-25": 133,
+      "2025-07-27": 24,
       "2025-08-16": 33,
-      "2025-07-27": 24
+      "2025-12-25": 133,
+      "2026-03-23": 54,
+      "2026-04-06": 88
     }
   },
   {
@@ -102,22 +102,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/fs.aksuma.ru.ico",
     "slug": "file-storage",
     "status": "up",
-    "uptime": "79.34%",
+    "uptime": "79.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 671,
-    "timeDay": 478,
-    "timeWeek": 545,
-    "timeMonth": 613,
+    "time": 670,
+    "timeDay": 414,
+    "timeWeek": 530,
+    "timeMonth": 609,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2026-04-06": 87,
-      "2026-03-23": 53,
-      "2025-12-25": 96,
+      "2025-08-16": 33,
       "2025-12-17": 22,
-      "2025-08-16": 33
+      "2025-12-25": 96,
+      "2026-03-23": 53,
+      "2026-04-06": 87
     }
   }
 ]
